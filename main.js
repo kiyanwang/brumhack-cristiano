@@ -2,7 +2,7 @@ var main = {
   preload: function() {
     // Load the paddle image
     game.load.image('paddle', 'assets/paddle.png');
-    game.load.image('brick', 'assets/brick.png');
+    game.load.image('brick', 'assets/brick_c.png');
     game.load.image('ball', 'assets/ball.png');
   },
 
